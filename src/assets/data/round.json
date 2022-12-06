@@ -1,0 +1,146 @@
+{
+  "roundOne": {
+    "nameGame": "Простая игра",
+    "question": "Как можно выполнять работу?",
+    "answers": [
+      {
+        "answer": "Быстро",
+        "number": "1",
+        "points": "55"
+      },
+      {
+        "answer": "Хорошо",
+        "number": "2",
+        "points": "35"
+      },
+      {
+        "answer": "Плохо",
+        "number": "3",
+        "points": "15"
+      },
+      {
+        "answer": "Спустя рукава",
+        "number": "4",
+        "points": "7"
+      },
+      {
+        "answer": "Качественно",
+        "number": "5",
+        "points": "4"
+      },
+      {
+        "answer": "Неспеша",
+        "number": "6",
+        "points": "2"
+      }
+    ]
+  },
+  "roundTwo": {
+    "nameGame": "Двойная игра",
+    "question": "Какую немецкую фразу знает любой русский?",
+    "answers": [
+      {
+        "answer": "Гитлер капут",
+        "number": "1",
+        "points": "55"
+      },
+      {
+        "answer": "Хенде хох",
+        "number": "2",
+        "points": "35"
+      },
+      {
+        "answer": "Ахтунг",
+        "number": "3",
+        "points": "15"
+      },
+      {
+        "answer": "Дас ист фантастиш",
+        "number": "4",
+        "points": "7"
+      },
+      {
+        "answer": "Гутен морген",
+        "number": "5",
+        "points": "4"
+      },
+      {
+        "answer": "Шпрехен зи дойч",
+        "number": "6",
+        "points": "2"
+      }
+    ]
+  },
+  "roundThree": {
+    "nameGame": "Тройная игра",
+    "question": "Как продолжить: \"это была лихая кавалерийская...\" ?",
+    "answers": [
+      {
+        "answer": "Атака",
+        "number": "1",
+        "points": "55"
+      },
+      {
+        "answer": "Песня",
+        "number": "2",
+        "points": "35"
+      },
+      {
+        "answer": "Часть",
+        "number": "3",
+        "points": "15"
+      },
+      {
+        "answer": "Лошадь",
+        "number": "4",
+        "points": "7"
+      },
+      {
+        "answer": "Скачка/Езда",
+        "number": "5",
+        "points": "4"
+      },
+      {
+        "answer": "Тачанка",
+        "number": "6",
+        "points": "2"
+      }
+    ]
+  },
+  "roundFour": {
+    "nameGame": "Игра наоборот",
+    "question": "Почему человек целый день сидит на балконе?",
+    "answers": [
+      {
+        "answer": "Дышит воздухом",
+        "number": "1",
+        "points": "55"
+      },
+      {
+        "answer": "Загорает",
+        "number": "2",
+        "points": "35"
+      },
+      {
+        "answer": "От безделья",
+        "number": "3",
+        "points": "15"
+      },
+      {
+        "answer": "Наблюдает за людьми",
+        "number": "4",
+        "points": "7"
+      },
+      {
+        "answer": "Курит",
+        "number": "5",
+        "points": "4"
+      },
+      {
+        "answer": "Ждёт кого-то",
+        "number": "6",
+        "points": "2"
+      }
+    ]
+  }
+}

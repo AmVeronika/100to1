@@ -1,0 +1,118 @@
+//COLORS
+//YELLOW:
+$orange: #FABB18; // оранжевый
+$orange-light: #FFF8E8; // светло-оранжевый
+$orange-gauzy: #FABB18; // полупрозрачный оранжевый
+$orange-hover: #FABB18;
+$orange-pressed: #FF8C00;
+$orange-disabled: #FFF8E8;
+
+//BLUE:
+$blue: #109CF1;
+$blue-hover: #34AFF9;
+$blue-pressed: #0e75b4;
+$blue-disabled: #C2CFE0;
+
+//GREEN:
+$green: #327914;
+$blue-hover: #34AFF9;
+$green-pressed: #58a934;
+$blue-disabled: #C2CFE0;
+
+//TASK statuses:
+$task-completed: #2ED47A;
+$task-active: #FFB946;
+$task-ended: #F7685B;
+
+//Theme:
+$gray: #8F8F8F;
+$gray-dark: #333333;
+$gray-btn: #364150;
+$purple-dark: #696495;
+$white: #FFFFFF;
+$black: #000000;
+
+
+
+// Общие стили
+
+//dispaly-flex
+.df {
+  display: flex;
+}
+.df-col {
+  display: flex;
+  flex-direction: column;
+}
+.df-col-fs {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.df-col-с {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.df-row-sb-c {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.df-row-sb-bl {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.df-row-fs-c {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.df-row-fe-c {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.df-row-c-c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+// gap
+.gap5 {
+  gap: 5px;
+}
+
+.gap10 {
+  gap: 10px;
+}
+
+.gap15 {
+  gap: 15px;
+}
+
+.gap20 {
+  gap: 20px;
+}
+.gap40 {
+  gap: 40px;
+}
+
+// border for wrapp
+.border-wrapp3 {
+  border: 1px solid $gray;
+  border-radius: 3px;
+}
+.border-wrapp5 {
+  border: 1px solid $gray;
+  border-radius: 5px;
+}
+
+//.central-block {
+//  width: 100%;
+//  max-width: 500px;
+//}
