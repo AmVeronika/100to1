@@ -1,145 +1,145 @@
 {
   "roundOne": {
     "nameGame": "Простая игра",
-    "question": "Как можно выполнять работу?",
+    "question": "По какому критерию отбирают участниц конкурса красоты?",
     "answers": [
       {
-        "answer": "Быстро",
+        "answer": "Ноги",
         "number": "1",
-        "points": "55"
+        "points": "23"
       },
       {
-        "answer": "Хорошо",
+        "answer": "90-60-90",
         "number": "2",
-        "points": "35"
+        "points": "19"
       },
       {
-        "answer": "Плохо",
+        "answer": "Рост",
         "number": "3",
+        "points": "16"
+      },
+      {
+        "answer": "Внешность",
+        "number": "4",
         "points": "15"
       },
       {
-        "answer": "Спустя рукава",
-        "number": "4",
-        "points": "7"
-      },
-      {
-        "answer": "Качественно",
+        "answer": "Походка",
         "number": "5",
-        "points": "4"
+        "points": "5"
       },
       {
-        "answer": "Неспеша",
+        "answer": "Наличие спонсора",
         "number": "6",
-        "points": "2"
+        "points": "3"
       }
     ]
   },
   "roundTwo": {
     "nameGame": "Двойная игра",
-    "question": "Какую немецкую фразу знает любой русский?",
+    "question": "Водолаз нырнул и тут же вынырнул. Почему?",
     "answers": [
       {
-        "answer": "Гитлер капут",
+        "answer": "Кончился воздух",
         "number": "1",
-        "points": "55"
+        "points": "25"
       },
       {
-        "answer": "Хенде хох",
+        "answer": "Забыл костюм",
         "number": "2",
-        "points": "35"
+        "points": "17"
       },
       {
-        "answer": "Ахтунг",
+        "answer": "Испугался",
         "number": "3",
         "points": "15"
       },
       {
-        "answer": "Дас ист фантастиш",
+        "answer": "Вода холодная",
         "number": "4",
-        "points": "7"
+        "points": "11"
       },
       {
-        "answer": "Гутен морген",
+        "answer": "Ударился",
         "number": "5",
-        "points": "4"
+        "points": "6"
       },
       {
-        "answer": "Шпрехен зи дойч",
+        "answer": "Передумал",
         "number": "6",
-        "points": "2"
+        "points": "4"
       }
     ]
   },
   "roundThree": {
     "nameGame": "Тройная игра",
-    "question": "Как продолжить: \"это была лихая кавалерийская...\" ?",
+    "question": "На огороде не выросла картошка. Почему?",
     "answers": [
       {
-        "answer": "Атака",
+        "answer": "Забыли посадить",
         "number": "1",
-        "points": "55"
+        "points": "25"
       },
       {
-        "answer": "Песня",
+        "answer": "Колорадский жук",
         "number": "2",
-        "points": "35"
+        "points": "21"
       },
       {
-        "answer": "Часть",
+        "answer": "Засуха",
         "number": "3",
-        "points": "15"
+        "points": "13"
       },
       {
-        "answer": "Лошадь",
+        "answer": "Дожди",
         "number": "4",
-        "points": "7"
+        "points": "9"
       },
       {
-        "answer": "Скачка/Езда",
+        "answer": "Морозы",
         "number": "5",
-        "points": "4"
+        "points": "8"
       },
       {
-        "answer": "Тачанка",
+        "answer": "Кто-то выкопал",
         "number": "6",
-        "points": "2"
+        "points": "3"
       }
     ]
   },
   "roundFour": {
     "nameGame": "Игра наоборот",
-    "question": "Почему человек целый день сидит на балконе?",
+    "question": "Какой продукт подают к столу в очень маленьком количестве?",
     "answers": [
       {
-        "answer": "Дышит воздухом",
+        "answer": "Икру",
         "number": "1",
-        "points": "55"
-      },
-      {
-        "answer": "Загорает",
-        "number": "2",
-        "points": "35"
-      },
-      {
-        "answer": "От безделья",
-        "number": "3",
         "points": "15"
       },
       {
-        "answer": "Наблюдает за людьми",
+        "answer": "Соль",
+        "number": "2",
+        "points": "30"
+      },
+      {
+        "answer": "Хлеб",
+        "number": "3",
+        "points": "60"
+      },
+      {
+        "answer": "Горчицу",
         "number": "4",
-        "points": "7"
+        "points": "120"
       },
       {
-        "answer": "Курит",
+        "answer": "Водку",
         "number": "5",
-        "points": "4"
+        "points": "180"
       },
       {
-        "answer": "Ждёт кого-то",
+        "answer": "Перец",
         "number": "6",
-        "points": "2"
+        "points": "240"
       }
     ]
   }
